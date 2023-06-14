@@ -1,0 +1,70 @@
+{
+    "col_titles": ["Words", "Background", "Study Passage", "Cross References", "Random"],
+    "questions":{
+        "col-1":[
+            {
+                "text": "What is logos?",
+                "answer": "Word",
+                "answered": "false"
+            },
+            
+            {
+                "text": "What is apostolos?",
+                "answer": "Apostle",
+                "answered": "false"
+            },
+            
+            {
+                "text": "What is disciple?",
+                "answer": "Mathetes",
+                "answered": "false"
+            },
+            
+            {
+                "text": "What is Man?",
+                "answer": "Anthropos",
+                "answered": "false"
+            },
+            
+            {
+                "text": "What is hymn singing?",
+                "answer": "Hymnody",
+                "answered": "false"
+            }
+        ],
+        "col-2":[
+            {
+                "text": "Which books did John write?",
+                "answer": "John (Gospel), 1 John, 2 John, 3 John, Revelation",
+                "answered": "false"
+            },
+            
+            {
+                "text": "Where was John when he wrote John the Gospel?",
+                "answer": "Ephesus",
+                "answered": "false"
+            },
+            
+            {
+                "text": "Which sea was beside Turkey?",
+                "answer": "Aegean Sea",
+                "answered": "false"
+            },
+            
+            {
+                "text": "How many churches did John write to in Revelation 1:11?",
+                "answer": "7",
+                "answered": "false"
+            },
+            
+            {
+                "text": "Which city did Christians flee to from Jerusalem in AD 66?",
+                "answer": "Pella",
+                "answered": "false"
+            }
+        ],
+        "col-3":[],
+        "col-4":[],
+        "col-5":[]
+    }
+}
